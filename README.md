@@ -1,5 +1,5 @@
 # Hanoi-Towers
-a simple hanoi towers solver with visualization
+a simple hanoi towers solver with visualization to help a friend learn programming
 
 to use this just compile the c++ code then use the args as follows:
 
